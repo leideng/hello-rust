@@ -1,0 +1,8 @@
+[workspace]
+resolver = "3"
+members = [
+    "topics/01-getting-started/01-hello-world",
+    "topics/01-getting-started/02-variables-and-mutability",
+    "topics/02-control-flow/01-if-and-loops",
+    "topics/03-functions/01-basic-functions",
+]
