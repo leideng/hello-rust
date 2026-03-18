@@ -19,5 +19,9 @@ name = "if-and-loops"
 version = "0.1.0"
 
 [[package]]
+name = "tuples-and-arrays"
+version = "0.1.0"
+
+[[package]]
 name = "variables-and-mutability"
 version = "0.1.0"
