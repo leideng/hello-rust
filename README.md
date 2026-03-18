@@ -15,6 +15,7 @@ This repository is organized as a beginner-friendly Rust workspace. Each topic h
 - `topics/01-getting-started/02-variables-and-mutability`
 - `topics/01-getting-started/03-basic-data-types`
 - `topics/01-getting-started/04-tuples-and-arrays`
+- `topics/01-getting-started/05-native-threads`
 
 ### 02 Control Flow
 
