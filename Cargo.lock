@@ -11,6 +11,10 @@ name = "basic-functions"
 version = "0.1.0"
 
 [[package]]
+name = "for-loops-and-ranges"
+version = "0.1.0"
+
+[[package]]
 name = "hello-world"
 version = "0.1.0"
 

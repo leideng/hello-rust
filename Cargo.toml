@@ -7,5 +7,6 @@ members = [
     "topics/01-getting-started/04-tuples-and-arrays",
     "topics/01-getting-started/05-native-threads",
     "topics/02-control-flow/01-if-and-loops",
+    "topics/02-control-flow/02-for-loops-and-ranges",
     "topics/03-functions/01-basic-functions",
 ]

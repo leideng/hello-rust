@@ -20,6 +20,7 @@ This repository is organized as a beginner-friendly Rust workspace. Each topic h
 ### 02 Control Flow
 
 - `topics/02-control-flow/01-if-and-loops`
+- `topics/02-control-flow/02-for-loops-and-ranges`
 
 ### 03 Functions
 
