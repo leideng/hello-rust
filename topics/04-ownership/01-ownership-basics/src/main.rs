@@ -8,4 +8,5 @@ fn main() {
     print_message(text);
 
     // text was moved into print_message, so it cannot be used here anymore.
+    // println!("text: {text}")
 }
