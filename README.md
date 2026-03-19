@@ -21,6 +21,7 @@ This repository is organized as a beginner-friendly Rust workspace. Each topic h
 
 - `topics/02-control-flow/01-if-and-loops`
 - `topics/02-control-flow/02-for-loops-and-ranges`
+- `topics/02-control-flow/03-match-basics`
 
 ### 03 Functions
 
