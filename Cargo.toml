@@ -10,4 +10,5 @@ members = [
     "topics/02-control-flow/02-for-loops-and-ranges",
     "topics/02-control-flow/03-match-basics",
     "topics/03-functions/01-basic-functions",
+    "topics/04-ownership/01-ownership-basics",
 ]

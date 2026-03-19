@@ -27,6 +27,10 @@ This repository is organized as a beginner-friendly Rust workspace. Each topic h
 
 - `topics/03-functions/01-basic-functions`
 
+### 04 Ownership
+
+- `topics/04-ownership/01-ownership-basics`
+
 ## How to run a project
 
 Change into any project folder and run:
